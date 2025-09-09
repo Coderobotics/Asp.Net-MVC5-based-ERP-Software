@@ -5,7 +5,7 @@ Automan ERP is a game changing Cloud ERP solution specially designed to meet the
 
 Automan ERP on Cloud is developed in latest technologies of Microsoft Asp.Net MVC5, C#.Net with MSSQL database, it can be totally customized and covered everything required to run a business irrespective of the size of a company. It offers all processes starting from a gate entry to final delivery of the product to the client. It has numerous features suitable for various businesses. Being a Cloud based ERP, it is a less expensive solution, easy to implement & use that effectively maintains the up-front cost of the business with its cost effective features. The enterprise solution offers real time information about HRMS, Payroll, Inventory, Procurement, Purchase Management, Order Management, Finance, Employee Management, Production, Workflow much more. Automan ERP on Cloud is providing you the power of selecting your own device or system that effectively adapts to your enterprise needs and suits with your specific requirements. Automan ERP on Cloud hosted ERP Software Solutions are best in class-system at the right price for your growing business demands that has ultimate power to help you boost productively , seize opportunities, cut cost and anticipate challenges as never before. A single click and the software access in your hands. It is all about the use of a browser required to run an online software application over the web to perform work at any time and from anywhere in the world.
 
-<img src="https://www.aspscriptsonline.com/frontend/assets/templates/reseller-bundle-dotnet-projects.jpg">
+<img src="https://www.aspscriptsonline.com/frontend/assets/templates/1738263999_48ba5713ab50636360c1.webp">
 
 <b>Super Administrator has the following key features:</b>
 
@@ -64,7 +64,7 @@ Automan ERP on Cloud is developed in latest technologies of Microsoft Asp.Net MV
 </ul>
 
 More details and download project
-https://www.aspscriptsonline.com/product/bundle-.net-projects
+https://www.aspscriptsonline.com/product/asp.net-mvc5-erp-software
 
 If you're looking for readymade php scripts
 https://www.phpscriptsonline.com/products
